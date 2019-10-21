@@ -1,0 +1,19 @@
+{
+  "name": "travis-ci-sample",
+  "version": "1.0.0",
+  "description": "belajar travis ci di node",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "author": "Andy Nur",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2",
+    "supertest": "^4.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
