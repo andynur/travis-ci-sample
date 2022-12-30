@@ -10,7 +10,7 @@
   "author": "Andy Nur",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "supertest": "^4.0.2"
   },
   "dependencies": {
